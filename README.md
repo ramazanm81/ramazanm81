@@ -5,11 +5,15 @@
 
 <p align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ramazanm81&theme=merko" />
-  <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ramazanm81&layout=compact&theme=merko" />
+  
 
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramazanm81&theme=merko" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramazanm81&theme=merko" />
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=ramazanm81&theme=merko&cache_seconds=1800" width="48%" />
+
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazanm81&theme=merko&hide_border=true" width="98%" />
 
 </p>
 
