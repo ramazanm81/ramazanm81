@@ -2,6 +2,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramazanm81&label=Profile%20views&color=0e75b6&style=flat" alt="ramazanm81" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramazanm81" alt="ramazanm81" /></a> </p>
+<h3 align="left">:bar_chart: My Stats:</h3>
+
+<p align="center">
+<a>
+  <img width="433px" src="https://github-readme-stats.vercel.app/api?username=ramazanm81&theme=merko">
+</a>
+<a">
+  <img width="393px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ramazanm81&layout=compact&theme=merko" />
+</a>
+<a>
+  <img width="433px" src="https://github-readme-activity-graph.vercel.app/graph?username=ramazanm81&theme=merko">
+</a>
+<a>
+  <img width="393px" src="https://github-readme-streak-stats.herokuapp.com/?user=ramazanm81&theme=merko" />
+</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
