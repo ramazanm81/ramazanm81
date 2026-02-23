@@ -4,18 +4,13 @@
 
 
 <p align="center">
-<a>
-  <img width="433px" src="https://github-readme-stats.vercel.app/api?username=ramazanm81&theme=merko">
-</a>
-<a">
-  <img width="393px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ramazanm81&layout=compact&theme=merko" />
-</a>
-<a>
-  <img width="433px" src="https://github-readme-activity-graph.vercel.app/graph?username=ramazanm81&theme=merko">
-</a>
-<a>
-  <img width="393px" src="https://github-readme-streak-stats.herokuapp.com/?user=ramazanm81&theme=merko" />
-</a>
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ramazanm81&theme=merko" />
+  <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ramazanm81&layout=compact&theme=merko" />
+
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramazanm81&theme=merko" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramazanm81&theme=merko" />
+
 </p>
 
 <h3 align="left">Connect with me:</h3>
