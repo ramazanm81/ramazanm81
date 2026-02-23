@@ -11,7 +11,7 @@
 
   <img src="https://streak-stats.demolab.com?user=ramazanm81&theme=merko&cache_seconds=1800" width="48%" />
 
-
+<br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazanm81&theme=merko&hide_border=true" width="48%" />
 
