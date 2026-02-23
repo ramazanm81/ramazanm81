@@ -13,7 +13,7 @@
 
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazanm81&theme=merko&hide_border=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazanm81&theme=merko&hide_border=true" width="48%" />
 
 </p>
 
